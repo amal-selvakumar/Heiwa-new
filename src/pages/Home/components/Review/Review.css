@@ -1,0 +1,85 @@
+.review{
+    width: 100%;
+    height: auto;
+    padding: 0 25px;
+    padding-bottom: 50px;
+}
+
+.review>.homeTitle{
+    padding-bottom: 25px;
+}
+
+.reviewSpanContainer{
+    display: flex;
+    justify-content: center;
+    padding-bottom: 25px;
+}
+
+.reviewSpanContainer>span{
+    font-family: 'Raleway';
+    font-size: 1rem;
+    letter-spacing: 0.05rem;
+    line-height: 1.8rem;
+}
+
+.reviewCardsContainer{
+    display: flex;
+    gap: 16px;
+    justify-content: center;
+}
+
+.reviewCard{
+    width: 368px;
+    min-height: 430px;
+    border: 1px solid #9E421B;
+    border-top-left-radius: 50vw;
+    border-top-right-radius: 50vw;
+    padding-bottom: 25px;
+}
+
+.reviewContainer{
+    margin-top: 78px;
+    min-height: calc(430px - 78px);
+    flex: 1;
+    display: flex;
+    flex-direction: column;
+    justify-content: space-between;
+}
+
+.topCommaDiv{
+    padding-left: 60px;
+}
+
+.reviewDescription,.authorNameContainer,.authorPlaceContainer{
+    display: flex;
+    justify-content: center;
+}
+
+.reviewDescription>span{
+    font-family: 'Raleway Semibold';
+    font-size: 1.2rem;
+    line-height: 1.8rem;
+    color: #9E421B;
+    max-width: 240px;
+}
+
+.bottomCommaDiv{
+    display: flex;
+    justify-content: end;
+    padding-right: 60px;
+}
+
+.authorNameContainer>span{
+    font-family: 'Josefin Sans';
+    font-size: 1.5rem;
+    color: #9C4322;
+    letter-spacing: 0.05rem;
+}
+
+.authorPlaceContainer>span{
+    font-family: 'Josefin Light';
+    font-size: 1rem;
+    color: #9C4322;
+    letter-spacing: 0.05rem;
+
+}

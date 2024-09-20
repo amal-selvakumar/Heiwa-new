@@ -1,0 +1,88 @@
+[{
+    "imageUrl":"src/assets/Images/BoutiqueStay.svg",
+    "content":"Boutique stay retreat",
+    "path":"/boutique-stay-retreat"
+},
+{
+    "imageUrl":"src/assets/Images/Ayurveda.svg",
+    "content":"Ayurveda retreat",
+    "path":"/ayurveda-retreat"
+},
+{
+    "imageUrl":"src/assets/Images/YogaAndMeditative.svg",
+    "content":"Yoga and meditative retreat",
+    "path":"/yoga-retreat"
+},
+{
+    "imageUrl":"src/assets/Images/SleepRetreat.svg",
+    "content":"Wellness sleep retreat",
+    "path":"/wellness-retreat"
+},
+{
+    "imageUrl":"src/assets/Images/Relax.svg",
+    "content":"Relax retreat",
+    "path":"/relax-retreat"
+},
+{
+    "imageUrl":"src/assets/Images/ModernBeauty.svg",
+    "content":"Modern beauty retreat",
+    "path":"/modern-retreat"
+},
+{
+    "imageUrl":"src/assets/Images/HolisticRetreat.svg",
+    "content":"Holistic/Ayurvedic women wellness retreat",
+    "path":"/holistic-retreat"
+},
+{
+    "imageUrl":"src/assets/Images/HormonalRetreat.svg",
+    "content":"Hormonal/Immunity retreat",
+    "path":"/hormonal-retreat"
+},
+{
+    "imageUrl":"src/assets/Images/BurnoutRetreat.svg",
+    "content":"Burnout management retreat",
+    "path":"/burnout-retreat"
+},
+{
+    "imageUrl":"src/assets/Images/LeisureRetreat.svg",
+    "content":"Leisure retreat",
+    "path":"/leisure-retreat"
+},
+{
+    "imageUrl":"src/assets/Images/CorporateRetreat.svg",
+    "content":"Corporate group retreat",
+    "path":"/corporate-retreat"
+},
+{
+    "imageUrl":"src/assets/Images/MedicalRetreat.svg",
+    "content":"Modern medical retreat",
+    "path":"/modern-retreat"
+},
+{
+    "imageUrl":"src/assets/Images/CulinaryRetreat.svg",
+    "content":"Culinary retreat",
+    "path":"/culinary-retreat"
+},
+{
+    "imageUrl":"src/assets/Images/Cultural.svg",
+    "content":"Cultural retreat",
+    "path":"/cultural-retreat"
+},
+{
+    "imageUrl":"src/assets/Images/Fitness.svg",
+    "content":"Fitness retreat",
+    "path":"/fitness-retreat"
+},
+
+
+{
+    "imageUrl":"src/assets/Images/EventRetreats.svg",
+    "content":"Event-oriented wellness retreat",
+    "path":"/event-retreat"
+},
+{
+    "imageUrl":"src/assets/Images/VirtualRetreat.svg",
+    "content":"Virtual retreat",
+    "path":"/virtual-retreat"
+}
+]

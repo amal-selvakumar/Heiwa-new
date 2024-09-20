@@ -1,0 +1,23 @@
+[
+    {
+        "comma1":"/src/assets/Images/Comma1.svg",
+        "content":"The experience here was simply amazing! The staff is incredibly professional and made me feel relaxed and rejuvenated.",
+        "comma2":"/src/assets/Images/Comma2.svg",
+        "name":"ALYA",
+        "place":"CANADA"
+    },
+    {
+        "comma1":"/src/assets/Images/Comma1.svg",
+        "content":"I've tried many spas, but this one stands out. The ambiance, the service, everything was perfect. I will definitely come back",
+        "comma2":"/src/assets/Images/Comma2.svg",
+        "name":"J.GARCIA",
+        "place":"AUSTRALIA"
+    },
+    {
+        "comma1":"/src/assets/Images/Comma1.svg",
+        "content":"A wonderful place to unwind and destress. The treatments are top-notch, and the team knows how to pamper their clients.",
+        "comma2":"/src/assets/Images/Comma2.svg",
+        "name":"JOY",
+        "place":"NEW YORK"
+    }
+]

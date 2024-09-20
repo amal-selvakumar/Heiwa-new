@@ -1,0 +1,13 @@
+.home{
+    width: 100%;
+    height: auto;
+    position: relative;
+    margin-top: 90px;
+}
+
+.whatsappContainer{
+    position: fixed;
+    right: 0;
+    top: 87vh;
+    z-index: 1000;
+}

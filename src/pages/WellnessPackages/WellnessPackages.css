@@ -1,0 +1,110 @@
+.wellnessPackages{
+    width: 100%;
+    height: auto;
+    background: #F5F3EF;
+    margin-top: 90px;
+}
+
+.wellnessOuterContainer{
+    padding: 0 25px;
+}
+
+.wellnessPackages>.homeTitle{
+    padding-bottom: 25px;
+}
+
+.wellnessPackageContentContainer{
+    display: flex;
+    justify-content: center;
+    text-align: center;
+    padding-bottom: 50px;
+}
+
+.wellnessPackageContentContainer>span{
+   font-family: 'Raleway';
+   font-size: 1rem;
+   letter-spacing: 0.05rem;
+   max-width: 1000px;
+   text-transform: uppercase;
+   line-height: 1.8rem;
+}
+
+.wellnessGridOuterContainer{
+    display: flex;
+    justify-content: center;
+}
+
+.wellnessGridContainer{
+    display: grid;
+    grid-template-columns: repeat(5,1fr);
+    grid-template-rows: auto;
+    row-gap: 35px;
+    gap: 50px;
+    justify-items: center;
+}
+
+.wellnessContainer{
+    height: 100%;
+    width: 100%;
+    cursor: pointer;
+}
+
+.wellnessContainer>a{
+    all: unset;
+    height: 100%;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+}
+
+.wellnessImageContainer{
+    height: 80%;
+    width: 100%;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.wellnessImageContainer>img{
+    transform: scale(0.85);
+}
+
+.wellnessTitleContainer{
+    height: 20%;
+    display: flex;
+    justify-content: center;
+    align-items: flex-start;
+    text-align: center;
+}
+
+.wellnessTitleContainer>span{
+    font-family: 'Raleway';
+    font-size: 1rem;
+    letter-spacing: 0.05rem;
+}
+
+.wellnessGridContainer>div:nth-child(16){
+    grid-column: 2/4;
+    justify-items: center;
+
+}
+
+.wellnessFlexContainer{
+    display: flex;
+    justify-content: center;
+    margin-top: 35px;
+    gap: 100px;
+    padding-bottom: 50px;
+}
+
+.wellnessFlexContainer>.wellnessContainer{
+    all: unset;
+}
+
+.wellnessFlexContainer>.wellnessContainer>a>.wellnessTitleContainer{
+    max-width: 200px;
+}
+
+.wellnessPackages>.questionsDiv{
+    margin-bottom: 0.5rem;
+}

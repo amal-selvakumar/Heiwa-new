@@ -1,0 +1,23 @@
+[{
+    "imageUrl":"/src/assets/Images/AyurvedaRetreat.svg",
+    "title":"Ayurveda retreats"
+},
+{
+    "imageUrl":"/src/assets/Images/BoutiqueStayRetreat.svg",
+    "title":"Boutique stay retreat"
+},
+{
+    "imageUrl":"/src/assets/Images/RelaxRetreat.svg",
+    "title":"Relax retreat"
+},
+{
+    "imageUrl":"/src/assets/Images/WellnessSleepRetreat.svg",
+    "title":"Wellness sleep retreat"
+},
+{
+    "imageUrl":"/src/assets/Images/FitnessRetreat.svg",
+    "title":"Fitness retreat"
+}
+
+
+]

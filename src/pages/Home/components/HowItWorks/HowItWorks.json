@@ -1,0 +1,42 @@
+[
+    {
+        "number":1,
+        "imageUrl":"/src/assets/Images/ContactUsSvg.svg",
+        "title":"Contact Us",
+        "description":"Reach out to us to discuss your needs and preferences  with our team.",
+        "icon":"/src/assets/Images/Arrow.svg"
+    },
+    {
+        "number":2,
+        "imageUrl":"/src/assets/Images/BookingConfirmationSvg.svg",
+        "title":"Booking Confirmation",
+        "description":"Submit your questionnaire, and our team will guide you through the process, ensuring everything is in order for your convenience.",
+        "icon":"/src/assets/Images/Arrow.svg"
+    },
+    {
+        "number":3,
+        "imageUrl":"/src/assets/Images/PreConsultationCallSvg.svg",
+        "title":"Pre-Consultation Call",
+        "description":"A Pre-Consultation Call to discuss your wellness goals and preferences with specialists. "
+    },
+    {
+        "number":4,
+        "imageUrl":"/src/assets/Images/VisaAssistanceSvg.svg",
+        "title":"Visa Assistance",
+        "description":"We effortlessly handles the visa process for your trip, and we ensures smoother travel arrangements.",
+        "icon":"/src/assets/Images/Arrow.svg"
+    },
+    {
+        "number":5,
+        "imageUrl":"/src/assets/Images/DedicatedHostingSvg.svg",
+        "title":"Dedicated Hosting",
+        "description":"Upon your arrival, our dedicated team will be your hosts, ensuring a seamless experience throughout your stay.",
+        "icon":"/src/assets/Images/Arrow.svg"
+    },
+    {
+        "number":6,
+        "imageUrl":"/src/assets/Images/PostConsultationServices.svg",
+        "title":"Post-Consultation Services",
+        "description":"Handles services upon your return, ensuring ongoing support for your well-being journey."
+    }
+]

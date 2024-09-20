@@ -1,0 +1,27 @@
+[
+    {
+        "title":"WELLNESS PACKAGES",
+        "image":"/src/assets/Images/WellnessImage.svg"
+    },
+    {
+        "title":"BOUTIQUE STAY RETREAT",
+        "image":"/src/assets/Images/BoutiqueImage.svg"
+    },
+    {
+        "title":"SPECIALIST CONSULTATION",
+        "image":"/src/assets/Images/SpecialistConsultation.svg"
+    },
+    {
+        "title":"CULTURAL RETREAT",
+        "image":"/src/assets/Images/CulturalRetreat.svg"
+    },
+    {
+        "title":"YOGA RETREAT",
+        "image":"/src/assets/Images/YogaRetreat.svg"
+    },
+    {
+        "title":"MEDITATION RETREAT",
+        "image":"/src/assets/Images/MeditationRetreat.svg"
+    }
+
+]

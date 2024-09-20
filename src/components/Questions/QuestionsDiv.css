@@ -1,0 +1,21 @@
+.questionsDiv{
+    width: 100%;
+    height:137px;
+    background: #EED7C5;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    gap: 20px;
+}
+
+.questionContentContainer>span{
+  font-family: 'Raleway';
+  font-size: 1rem;
+  letter-spacing: 0.05rem;
+  line-height: 1.8rem;
+}
+
+.questionsButtonContainer{
+    display: flex;
+    gap: 20px;
+}

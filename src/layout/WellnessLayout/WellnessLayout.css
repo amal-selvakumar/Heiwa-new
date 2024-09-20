@@ -1,0 +1,46 @@
+.wellnessLayout{
+    width: 100%;
+    height: auto;
+    margin-top: 90px;
+    background: #F5F3EF;
+}
+
+.wellnessLayoutImageContainer{
+    width: 100%;
+    height: 300px;
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-position: center;
+}
+
+.wellnessLayoutOuterContainer{
+    padding: 0 25px;
+}
+
+.wellnessLayoutTitle{
+    display: flex;
+    justify-content: center;
+    padding: 30px 0;
+}
+
+.wellnessLayoutTitle>span{
+    font-family: 'Josefin Sans';
+    font-size: 2rem;
+    color: #C3911A;
+    letter-spacing: 0.05rem;
+    padding-top: 0.5rem;
+}
+
+.wellnessLayoutContent{
+    display: flex;
+    justify-content: center;
+    text-align: center;
+}
+
+.wellnessLayoutContent>span{
+    width: 80%;
+    font-family: 'Raleway';
+    font-size: 1rem;
+    letter-spacing: 0.05rem;
+    line-height: 1.8rem;
+}

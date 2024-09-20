@@ -1,0 +1,57 @@
+.button{
+    cursor: pointer;
+
+    &.primary{
+        min-width: 105px;
+        min-height: 35px;
+        background: #EFD8C4;
+        font-family: 'Josefin Bold';
+        border: 2px solid #9E421B;
+        color: #9E421B;
+        font-size: 0.95rem;
+        padding:10px;
+    }
+
+    &.primary>span{
+        padding-top: 0.1rem;
+        display: flex;
+    }
+
+    &.secondary{
+        min-height: 45px;
+        background: #9E421B;
+        border: none;
+        font-family: 'Josefin Bold';
+        color: #ffffff;
+        font-size: 0.9rem;
+        letter-spacing: 0.05rem;
+        line-height: 1.8rem;
+        display: flex;
+        align-items: center;
+        gap: 10px;
+    }
+
+    &.secondary>span{
+        padding-top: 0.1rem;
+        display: flex;
+    }
+
+    &.large{
+        padding: 0 30px;
+    }
+
+    &.outline{
+        min-height: 45px;
+        background: #9E421B;
+        border: none;
+        font-family: 'Raleway';
+        color: #ffffff;
+        font-size: 0.9rem;
+        letter-spacing: 0.05rem;
+        line-height: 1.8rem;
+        display: flex;
+        align-items: center;
+        gap: 10px;
+    }
+}
+

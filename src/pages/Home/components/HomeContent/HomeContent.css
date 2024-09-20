@@ -1,0 +1,54 @@
+.homeContainer{
+    width: 100%;
+    position: relative;
+}
+
+.homeBackgroundContainer{
+    min-height: calc(100vh - 90px);
+    width: 100%;
+    position: relative;
+    z-index: 1;
+    display: flex;
+    flex-direction: column;
+    gap: 25px;
+    padding-top: 50px;
+}
+
+.homeBackgroundContainer::before{
+    content: '';
+    position: absolute;
+    top: 0;
+    right: 0;
+    left: 0;
+    bottom: 0;
+    background: #EFD8C4;
+    background-image: url('/src/assets/Images/HomeBackground.svg');
+    background-repeat: no-repeat;
+    background-size: 100%;
+    background-position: center bottom;
+    opacity: 0.6;
+    z-index: -1;
+}
+
+.homeTitleContainer,.homeDescriptionContainer,.homeButtonContainer{
+    display: flex;
+    justify-content: center;
+    text-align: center;
+}
+
+.homeTitleContainer>span{
+    width: 90%;
+    font-family: 'Josefin Bold';
+    font-size: 2rem;
+    color: #9E421B;
+    line-height: 120%;
+    letter-spacing: 0.05rem;
+}
+
+.homeDescriptionContainer>span{
+    width: 80%;
+    font-family: 'Raleway';
+    font-size: 1rem;
+    line-height: 1.8rem;
+    letter-spacing: 0.05rem;
+}

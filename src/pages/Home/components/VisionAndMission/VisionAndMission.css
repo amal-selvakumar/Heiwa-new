@@ -1,0 +1,53 @@
+.visionAndMission{
+    width: 100%;
+    height: auto;
+    background: #EED7C5;
+    display: flex;
+    justify-content: center;
+    gap: 114px;
+    padding: 50px 25px;
+}
+
+.visionContainer{
+    height: 450px;
+    width: 340px;
+    border-top-left-radius: 50vw;
+    border-top-right-radius: 50vw;
+    background: #ffffff;
+    display: flex;
+    flex-direction: column;
+    justify-content: space-evenly;
+}
+
+.topCommaContainer{
+    padding-left: 55px;
+    margin-top: 45px;
+}
+
+.visionDescriptionContainer{
+    display: flex;
+    justify-content: center;
+}
+
+.visionDescriptionContainer>span{
+    font-family: 'Raleway';
+    font-size: 1rem;
+    letter-spacing: 0.05rem;
+    line-height: 1.8rem;
+}
+
+.bottomCommaContainer{
+    display: flex;
+    justify-content: end;
+    padding-right: 55px;
+}
+
+.visionTitleContainer{
+    text-align: center;
+}
+
+.visionTitleContainer>span{
+    font-family: 'Josefin Sans';
+    font-size: 1.2rem;
+    color: #9E421B;
+}

@@ -1,0 +1,26 @@
+[
+    {
+        "image":"/src/assets/Images/LotusImg.svg",
+        "title":"Online meditation"
+    },
+    {
+        "image":"/src/assets/Images/LotusImg.svg",
+        "title":"Online cooking"
+    },
+    {
+        "image":"/src/assets/Images/LotusImg.svg",
+        "title":"Online breath and yoga"
+    },
+    {
+        "image":"/src/assets/Images/LotusImg.svg",
+        "title":"Online martial arts"
+    },
+    {
+        "image":"/src/assets/Images/LotusImg.svg",
+        "title":"Online classical music classes"
+    },
+    {
+        "image":"/src/assets/Images/LotusImg.svg",
+        "title":"Virtual specialist consultation"
+    }
+]

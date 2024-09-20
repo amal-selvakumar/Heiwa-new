@@ -1,0 +1,16 @@
+[
+    {
+        "comma1":"/src/assets/Images/Comma1.svg",
+        "content":"Empowering individuals <br/> to achieve holistic well- <br/>being through <br/> personalized, world-<br/>class healthcare and <br/>wellness solutions.",
+        "comma2":"/src/assets/Images/Comma2.svg",
+        "title":"OUR MISSION",
+        "backgroundImage":"/src/assets/Images/MissionBackground.svg"
+    },
+    {
+        "comma1":"/src/assets/Images/Comma1.svg",
+        "content":"To become India and <br/> India’s premier wellness <br/>tourism facilitator.<br/>To craft transformative,<br/>holistic experiences for <br/>global wellness seekers.",
+        "comma2":"/src/assets/Images/Comma2.svg",
+        "title":"OUR VISION",
+        "backgroundImage":"/src/assets/Images/VisionBackground.svg"
+    }
+]
