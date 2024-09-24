@@ -1,0 +1,47 @@
+{
+    "images":[
+        {
+            "imageUrl":"/src/assets/Images/AyurvedaPersonalizedBackground1.svg"
+        },
+        {
+            "imageUrl":"/src/assets/Images/AyurvedaPersonalizedBackground2.svg"
+        },
+        {
+            "imageUrl":"/src/assets/Images/AyurvedaPersonalizedBackground3.svg"
+        },
+        {
+            "imageUrl":"/src/assets/Images/AyurvedaPersonalizedBackground4.svg"
+        }
+    ],
+    "content":"Take the first step towards optimal health with our personalized Ayurveda treatment plans. Our expert Ayurveda doctors will work closely with you to understand your unique health concerns, such as gut imbalances, immunity issues, or chronic pain. Through a comprehensive consultation, we will identify the root cause of your disorder and create a customized treatment plan tailored to your specific needs. Our plans may include dietary guidance, herbal remedies, yoga and meditation, and lifestyle modifications to help you achieve lasting wellness and vitality. Let us help you find balance and harmony in your body, mind, and spirit ",
+    "whatWeOfferData":[
+        {
+            "imageUrl":"/src/assets/Images/GutAndThyroidHealth.svg",
+            "title":"GUT AND THYROID HEALTH RETREAT",
+            "content":"Restore digestive harmony and rebalance thyroid function with tailored diets, herbal remedies, and yoga practices, nurturing overall vitality.",
+            "smallTitle":"Recommended Addons:",
+            "points":"<div style='display:flex; gap:10px; justify-content:center;'><img src='/src/assets/Images/LotusImg.svg'/> <span style='font-family:Raleway; font-size:1rem; letter-spacing:0.05rem; line-height:1.8rem;'>Herbal teas or supplements</span></div> <div style='display:flex; gap:10px; justify-content:center;'><img src='/src/assets/Images/LotusImg.svg'/> <span style='font-family:Raleway; font-size:1rem; letter-spacing:0.05rem; line-height:1.8rem;'>Digestive health assessments</span></div> <div style='display:flex; gap:10px; justify-content:center;'><img src='/src/assets/Images/LotusImg.svg'/> <span style='font-family:Raleway; font-size:1rem; letter-spacing:0.05rem; line-height:1.8rem;'>Ayurvedic cooking classes</span></div> <div style='display:flex; gap:10px; justify-content:center;'><img src='/src/assets/Images/LotusImg.svg'/> <span style='font-family:Raleway; font-size:1rem; letter-spacing:0.05rem; line-height:1.8rem;'>Mindfulness and stress-reduction workshops</span></div>"
+        },
+        {
+            "imageUrl":"/src/assets/Images/HolisticDetox.svg",
+            "title":"HOLISTIC DETOX",
+            "content":"Comprehensive holistic detoxification involves purifying the body, mind, and spirit through natural methods and lifestyle adjustments",
+            "smallTitle":"Recommended Addons:",
+            "points":"<div style='display:flex; justify-content:center;'> <div style='display:flex; gap:10px;'><img src='/src/assets/Images/LotusImg.svg'/> <span style='font-family:Raleway; font-size:1rem; letter-spacing:0.05rem; line-height:1.8rem;'>Personalized Detox</span></div> <span style='display:flex; align-items:center; font-weight:600; padding:0 10px; font-size:1.5rem;'>|</span> <div style='display:flex; gap:10px;'><img src='/src/assets/Images/LotusImg.svg'/> <span style='font-family:Raleway; font-size:1rem; letter-spacing:0.05rem; line-height:1.8rem;'>Invigorating Hydrotherapy</span></div> </div></div>  <div style='display:flex; gap:10px; justify-content:center;'><img src='/src/assets/Images/LotusImg.svg'/> <span style='font-family:Raleway; font-size:1rem; letter-spacing:0.05rem; line-height:1.8rem;'>1-on-1 Physician Consultation for Dosha Analysis</span></div> <div style='display:flex; gap:10px; justify-content:center;'><img src='/src/assets/Images/LotusImg.svg'/> <span style='font-family:Raleway; font-size:1rem; letter-spacing:0.05rem; line-height:1.8rem;'>Sleep Programming for Restorative Rest</span></div> <div style='display:flex; gap:10px; justify-content:center;'><img src='/src/assets/Images/LotusImg.svg'/> <span style='font-family:Raleway; font-size:1rem; letter-spacing:0.05rem; line-height:1.8rem;'>Biofeedback for Mind-Body Harmony</span></div> <div style='display:flex; gap:10px; justify-content:center;'><img src='/src/assets/Images/LotusImg.svg'/> <span style='font-family:Raleway; font-size:1rem; letter-spacing:0.05rem; line-height:1.8rem;'>Nature Exposure and Tranquil Trails</span></div> "
+        },
+        {
+            "imageUrl":"/src/assets/Images/InflammatoryDisorder.svg",
+            "title":"INFLAMMATORY DISORDER RETREAT",
+            "content":"Ayurveda offers a holistic approach to managing inflammatory disorders such as arthritis, fibromyalgia, and autoimmune diseases. Our treatments aim to reduce inflammation, alleviate pain, and promote overall well-being.",
+            "smallTitle":"Recommended Addons:",
+            "points":"<div style='display:flex; justify-content:center;'> <div style='display:flex; gap:10px;'><img src='/src/assets/Images/LotusImg.svg'/> <span style='font-family:Raleway; font-size:1rem; letter-spacing:0.05rem; line-height:1.8rem;'>Ayurvedic oil massage</span></div> <span style='display:flex; align-items:center; font-weight:600; padding:0 10px; font-size:1.5rem;'>|</span> <div style='display:flex; gap:10px;'><img src='/src/assets/Images/LotusImg.svg'/> <span style='font-family:Raleway; font-size:1rem; letter-spacing:0.05rem; line-height:1.8rem;'>Herbal remedies</span></div> </div></div>  <div style='display:flex; gap:10px; justify-content:center;'><img src='/src/assets/Images/LotusImg.svg'/> <span style='font-family:Raleway; font-size:1rem; letter-spacing:0.05rem; line-height:1.8rem;'>Panchakarma detoxification programs</span></div> <div style='display:flex; gap:10px; justify-content:center;'><img src='/src/assets/Images/LotusImg.svg'/> <span style='font-family:Raleway; font-size:1rem; letter-spacing:0.05rem; line-height:1.8rem;'>Stress management techniques</span></div>"
+        },
+        {
+            "imageUrl":"/src/assets/Images/ImmunityBooster.svg",
+            "title":"IMMUNITY BOOSTER PROGRAM",
+            "content":"Elevate your body's defenses with a bespoke blend of Ayurvedic herbs, nutritional guidance, and lifestyle enhancements, fortifying resilience against ailments.",
+            "smallTitle":"Recommended Addons:",
+            "points":"<div style='display:flex; gap:10px; justify-content:center;'><img src='/src/assets/Images/LotusImg.svg'/> <span style='font-family:Raleway; font-size:1rem; letter-spacing:0.05rem; line-height:1.8rem;'>Yoga and meditation sessions</span></div> <div style='display:flex; gap:10px; justify-content:center;'><img src='/src/assets/Images/LotusImg.svg'/> <span style='font-family:Raleway; font-size:1rem; letter-spacing:0.05rem; line-height:1.8rem;'>Immune-boosting herbal supplements</span></div> <div style='display:flex; justify-content:center;'> <div style='display:flex; gap:10px;'><img src='/src/assets/Images/LotusImg.svg'/> <span style='font-family:Raleway; font-size:1rem; letter-spacing:0.05rem; line-height:1.8rem;'>Ayurvedic oil massage</span></div> <span style='display:flex; align-items:center; font-weight:600; padding:0 10px; font-size:1.5rem;'>|</span> <div style='display:flex; gap:10px;'><img src='/src/assets/Images/LotusImg.svg'/> <span style='font-family:Raleway; font-size:1rem; letter-spacing:0.05rem; line-height:1.8rem;'>Aromatherapy</span></div> </div></div>"
+        }
+    ]
+}

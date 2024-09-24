@@ -1,0 +1,84 @@
+.modalComponent{
+    position: absolute;
+    top: 0;
+    left: 0;
+    right: 0;
+    bottom: 0;
+    background: rgba(255, 255, 255, 0.4);
+    z-index: 10;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+
+.modal{
+    max-width:920px;
+    min-height: 445px;
+    background: #ffffff;
+    display: flex;
+}
+
+.modalImageContainer>img{
+    height: 100%;
+}
+
+.modalContentContainer{
+    flex: 1;
+    padding: 20px;
+    display: flex;
+    flex-direction: column;
+}
+
+.closeIconContainer{
+    display: flex;
+    justify-content: end;
+    font-size: 1.8rem;
+    padding-bottom: 20px;
+}
+
+.closeIconContainer>svg{
+    cursor: pointer;
+}
+
+.modalTitle>span{
+    font-family: 'Josefin Semibold';
+    font-size: 1.8rem;
+    letter-spacing: 0.05rem;
+    line-height: 1.8rem;
+}
+
+.modalSmallDescriptionContainer>span{
+    font-family: 'Raleway';
+    font-size: 1rem;
+    letter-spacing: 0.05rem;
+    line-height: 1.8rem;
+
+}
+
+.modalDescriptionContainer{
+    padding: 20px;
+    display: flex;
+    flex-direction: column;
+    justify-content: space-between;
+}
+
+.modalContent{
+    display: flex;
+    flex-direction: column;
+    gap: 20px;
+}
+
+.modalContent>ul>li>span:nth-child(1){
+    font-family: 'Raleway semibold';
+    color: #9E421B;
+    font-size: 1rem;
+    letter-spacing: 0.05rem;
+    line-height: 1.8rem;
+}
+
+.modalContent>ul>li>span:nth-child(2){
+    font-family: 'Raleway';
+    font-size: 1rem;
+    letter-spacing: 0.05rem;
+    line-height: 1.8rem;
+}

@@ -1,0 +1,44 @@
+{
+    "ayurvedaContent":{
+        "content":"<p style='font-family:Raleway semibold;'>What is Ayurveda?</p> <p style='margin:10px 0;'>Ayurveda, the ancient science of life, is a holistic approach to wellness that originated in India over 5,000 years ago. The term \"Ayurveda\" is derived from the Sanskrit words \"ayur\" meaning \"life\" and \"veda\" meaning \"science\" or \"knowledge.\" It is a comprehensive system of natural healthcare that aims to balance the body, mind, and spirit to promote overall health and well-being. Ayurveda is based on the understanding that each individual is unique, with their own distinct constitution (known as \"dosha\") and life force (known as \"prana\"). It offers a personalized approach to health, using a combination of diet, lifestyle, herbal remedies, yoga, and meditation to restore balance and harmony. </p> <div style='display:flex; flex-direction:column; align-items:flex-start;'><p style='font-family:Raleway semibold;'>The core principles of Ayurveda include:</p> <p style='margin:10px 0'><ul style='text-align:start;'><li>The interconnectedness of all living things</li> <li>The importance of living in harmony with nature</li> <li>The concept of the three doshas (Vata, Pitta, and Kapha) and their role in maintaining health and balance</li> <li>The use of natural remedies and therapies to promote wellness</li> <li>The emphasis on prevention and self-care</li></ul></p> <p style='margin-top:10px;'>By embracing the wisdom of Ayurveda, you can embark on a journey of self-discovery and transformation, cultivating a deeper connection with your body, mind, and spirit. By partnering with the best in the industry, we're able to offer our guests a truly exceptional Ayurveda retreat experience. Join us and discover the transformative power of Ayurveda.</p></div>"
+    },
+
+    "ayurvedaWhatWeOfferContent":[
+        
+        {
+            "imageUrl":"/src/assets/Images/AyurvedaMassages.svg",
+            "title":"AYURVEDA MASSAGES",
+            "path":"/ayurveda-massages"
+        },
+        {
+            "imageUrl":"/src/assets/Images/AyurvedaPersonalized.svg",
+            "title":"AYURVEDA PERSONALIZED TREATMENTS",
+            "path":"/ayurveda-personalized-treatments"
+        },
+        {
+            "imageUrl":"/src/assets/Images/AyurvedaBeauty.svg",
+            "title":"AYURVEDA BEAUTY AND SKIN REJUVENATION",
+            "path":"/ayurveda-beauty-and-skin-rejuvenation"
+        },
+        {
+            "imageUrl":"/src/assets/Images/AyurvedaWeightManagement.svg",
+            "title":"AYURVEDA WEIGHT MANAGEMENT",
+            "path":"/ayurveda-weight-management"
+        },
+        {
+            "imageUrl":"/src/assets/Images/AyurvedaPreConsultation.svg",
+            "title":"AYURVEDA PRE CONSULTATION",
+            "path":"/ayurveda-pre-consultation"
+        },
+        {
+            "imageUrl":"/src/assets/Images/GynecologicalConsultation.svg",
+            "title":"GYNECOLOGICAL CONSULTATION",
+            "path":"/gynecological-consultation"
+        },  
+        {
+            "imageUrl":"/src/assets/Images/KalariTreatment.svg",
+            "title":"KALARI TREATMENTS",
+            "path":"/kalari-treatments"
+        }
+    ]
+}

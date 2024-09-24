@@ -1,0 +1,106 @@
+.ayurvedaWhatWeOffer{
+    width: 100%;
+    height: auto;
+    padding-bottom: 50px;
+}
+
+.ayurvedaWhatWeOffer>.wellnessLayoutTitle{
+    padding-bottom: 30px;
+}
+
+.ayurvedaWhatWeOfferGridOuterContainer{
+    display: flex;
+    justify-content: center;
+}
+
+.ayurvedaWhatWeOfferGridContainer{
+    display: grid;
+    grid-template-columns: repeat(2,1fr);
+    grid-template-rows: auto;
+    gap: 50px;
+    row-gap: 35px;
+}
+
+.ayurvedaWhatWeOfferOuterDiv{
+    max-width:550px;
+    min-height:610px;
+    background: #F2EEE5;
+    padding: 25px;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    position: relative;
+}
+
+.ayurvedaWhatWeOfferImageContainer{
+    width: 100%;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+
+.ayurvedaWhatWeOfferTitleContainer{
+    padding: 20px 0;
+    text-align: center;
+}
+
+.ayurvedaWhatWeOfferTitleContainer>span{
+    font-family: 'Josefin Sans';
+    font-size: 1.563rem;
+    color: #C3911A;
+    letter-spacing: 0.05rem;
+}
+
+.ayurvedaWhatWeOfferContentContainer{
+    text-align: center;
+}
+
+.ayurvedaWhatWeOfferContentContainer>span{
+    font-family: 'Raleway';
+    font-size: 1rem;
+    letter-spacing: 0.05rem;
+    line-height: 1.8rem;
+}
+
+.ayurvedaPointsDiv{
+    width: 100%;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    text-align: center;
+    margin-top: 10px;
+    gap: 2px;
+}
+
+.brochureLink{
+    display: flex;
+    gap: 10px;
+    position: absolute;
+    bottom: 20px;
+}
+
+.brochureLink>.active::after{
+    border-bottom: none;
+}
+
+.brochureLink>span{
+    font-family: 'Raleway semibold';
+    font-size: 1rem;
+    color: #9C4322;
+}
+
+.brochureLink>a{
+    color: #3291F0;
+}
+
+.ayurvedaSmallTitle{
+    margin-top: 10px;
+}
+
+.ayurvedaSmallTitle>span{
+  font-family: 'Raleway semibold';
+  font-size: 1rem;
+  color: #9E421B;
+  letter-spacing: 0.05rem;
+  line-height: 1.8rem;
+}

@@ -1,0 +1,27 @@
+.ayurvedaPagesLayout{
+    width: 100%;
+    height: auto;
+    margin-top: 90px;
+    background: #F5F3EF;
+}
+
+.ayurvedaBackgroundImageContainer{
+    width: 100%;
+    height: 400px;
+    background: #E1C7A5;
+    background-image: url('/src/assets/Images/AyurvedaPagesBackgroundVector.svg');
+    background-repeat: no-repeat;
+    background-position: right;
+    display: flex;
+    justify-content: center;
+    padding: 40px 0;
+    gap: 25px;
+}
+
+.ayurvedaLayoutOuterContainer{
+    padding: 0 25px;
+}
+
+.ayurvedaPagesLayout>.questionsDiv{
+    margin-bottom: 0.5rem;
+}

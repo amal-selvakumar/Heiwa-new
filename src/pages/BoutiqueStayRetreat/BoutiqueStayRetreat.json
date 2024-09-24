@@ -6,7 +6,28 @@
 
     "boutiqueWhatWeOfferData":[
         {
-            "imageUrl":""
+            "imageUrl":"/src/assets/Images/CampingEscapes.svg",
+            "title":"CAMPING ESCAPES"
+        },
+        {
+            "imageUrl":"/src/assets/Images/ForestDwellings.svg",
+            "title":"FOREST DWELLINGS"
+        },
+        {
+            "imageUrl":"/src/assets/Images/IslandRetreats.svg",
+            "title":"ISLAND RETREATS"
+        },
+        {
+            "imageUrl":"/src/assets/Images/CulturalHomestays.svg",
+            "title":"CULTURAL HOMESTAYS"
+        },
+        {
+            "imageUrl":"/src/assets/Images/BackwaterRetreats.svg",
+            "title":"BACKWATER RETREATS"
+        },
+        {
+            "imageUrl":"/src/assets/Images/BeachsideBliss.svg",
+            "title":"BEACHSIDE BLISS"
         }
     ]
 }

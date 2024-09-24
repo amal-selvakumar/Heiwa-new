@@ -1,0 +1,25 @@
+{
+    "images":[
+        {
+            "imageUrl":"/src/assets/Images/AyurvedaMassagesBackground1.svg"
+        },
+        {
+            "imageUrl":"/src/assets/Images/AyurvedaMassagesBackground2.svg"
+        }
+    ],
+    "content":"All our Ayurveda retreat include Personalized physician consultation and Diagnostic tests. An Ayurveda Retreat is a special place where you can relax and improve your well-being using ancient Ayurvedic methods. They offer personalized treatments, soothing massages, and advice on what to eat based on your unique needs. You can also do yoga and meditation to feel more balanced and relaxed. Whether you want to address specific health issues or just take a break to feel better, an Ayurveda Retreat is a place to recharge and boost your overall health. ",
+    "whatWeOfferData":[
+        {
+            "imageUrl":"/src/assets/Images/Shirodhara.svg",
+            "title":"SHIRODHARA",
+            "content":"Indulge in profound relaxation and mental clarity with the ancient therapy of Shirodhara, featuring a gentle stream of warm oil cascading over the forehead, soothing the nervous system.",
+            "points":"<div style='display:flex; justify-content:center;'> <div style='display:flex; gap:10px;'><img src='/src/assets/Images/LotusImg.svg'/> <span style='font-family:Raleway; font-size:1rem; letter-spacing:0.05rem; line-height:1.8rem;'>Ayurvedic oil massage</span></div> <span style='display:flex; align-items:center; font-weight:600; padding:0 10px; font-size:1.5rem;'>|</span> <div style='display:flex; gap:10px;'><img src='/src/assets/Images/LotusImg.svg'/> <span style='font-family:Raleway; font-size:1rem; letter-spacing:0.05rem; line-height:1.8rem;'>Aromatherapy</span></div> </div></div>  <div style='display:flex; gap:10px; justify-content:center;'><img src='/src/assets/Images/LotusImg.svg'/> <span style='font-family:Raleway; font-size:1rem; letter-spacing:0.05rem; line-height:1.8rem;'>Meditation or mindfulness exercises</span></div> <div style='display:flex; gap:10px; justify-content:center;'><img src='/src/assets/Images/LotusImg.svg'/> <span style='font-family:Raleway; font-size:1rem; letter-spacing:0.05rem; line-height:1.8rem;'>Sound therapy sessions</span></div>"
+        },
+        {
+            "imageUrl":"/src/assets/Images/PanchakarmaDetox.svg",
+            "title":"PANCHAKARMA DETOX",
+            "content":"Ayurvedic Panchakarma is a highly popular wellness resort program that is offered exclusively to guests seeking natural detoxification and rejuvenation. This five step cleansing program helps in gut health management, weight loss, and synchronization of mind and body for holistic well-being. The duration of this program can be of 7,10, 14, or 21 days. ",
+            "points":"<div style='display:flex; gap:10px; justify-content:center;'><img src='/src/assets/Images/LotusImg.svg'/> <span style='font-family:Raleway; font-size:1rem; letter-spacing:0.05rem; line-height:1.8rem;'>Biomarker analysis and checking vital parameters</span></div> <div style='display:flex; justify-content:center;'> <div style='display:flex; gap:10px;'><img src='/src/assets/Images/LotusImg.svg'/> <span style='font-family:Raleway; font-size:1rem; letter-spacing:0.05rem; line-height:1.8rem;'>Dhara Therapy</span></div> <span style='display:flex; align-items:center; font-weight:600; padding:0 10px; font-size:1.5rem;'>|</span> <div style='display:flex; gap:10px;'><img src='/src/assets/Images/LotusImg.svg'/> <span style='font-family:Raleway; font-size:1rem; letter-spacing:0.05rem; line-height:1.8rem;'>Panchakarma Therapies</span></div></div> <div style='display:flex; justify-content:center;'> <div style='display:flex; gap:10px;'><img src='/src/assets/Images/LotusImg.svg'/> <span style='font-family:Raleway; font-size:1rem; letter-spacing:0.05rem; line-height:1.8rem;'>Ayurvedic Massages</span></div> <span style='display:flex; align-items:center; font-weight:600; padding:0 10px; font-size:1.5rem;'>|</span> <div style='display:flex; gap:10px;'><img src='/src/assets/Images/LotusImg.svg'/> <span style='font-family:Raleway; font-size:1rem; letter-spacing:0.05rem; line-height:1.8rem;'>Snehana process</span></div> </div> <div style='display:flex; gap:10px; justify-content:center;'><img src='/src/assets/Images/LotusImg.svg'/> <span style='font-family:Raleway; font-size:1rem; letter-spacing:0.05rem; line-height:1.8rem;'>Pranayama or Yogic cleansing</span></div>"
+        }
+    ]
+}

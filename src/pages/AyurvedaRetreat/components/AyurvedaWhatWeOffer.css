@@ -1,0 +1,37 @@
+.ayurvedaGridContainer{
+    display: grid;
+    grid-template-columns: repeat(4,1fr);
+    grid-template-rows: auto;
+    justify-items: center;
+}
+
+.ayurvedaGridContainer>a{
+    all: unset;
+}
+
+.ayurvedaGridContainer>.active::after{
+    all: unset;
+}
+
+.ayurvedaGridSecondContainer{
+    display: grid;
+    grid-template-columns: repeat(3,1fr);
+    grid-template-rows: auto;
+    gap: 92.4px;
+}
+
+.ayurvedaGridSecondContainer>a{
+    all: unset;
+}
+
+.ayurvedaGridSecondContainer>.active::after{
+    all: unset;
+}
+
+.ayurvedaGridOuterContainer{
+    display: flex;
+    justify-content: center;
+    padding-top: 35px;
+    padding-bottom: 50px;
+
+}

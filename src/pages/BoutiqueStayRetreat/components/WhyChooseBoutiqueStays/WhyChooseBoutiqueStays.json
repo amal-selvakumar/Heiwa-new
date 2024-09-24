@@ -1,0 +1,17 @@
+[
+    {
+        "imageUrl":"/src/assets/Images/Authenticity.svg",
+        "title":"Authenticity",
+        "content":"These stays are not mass-produced; they’re crafted with love and authenticity."
+    },
+    {
+        "imageUrl":"/src/assets/Images/PersonalizedService.svg",
+        "title":"Personalized Service",
+        "content":"Expect personalized attention from hosts who treat you like family."
+    },
+    {
+        "imageUrl":"/src/assets/Images/Wellness.svg",
+        "title":"Wellness",
+        "content":"Whether it’s yoga by the river or meditation in a treehouse, these stays prioritize your well-being."
+    }
+]
